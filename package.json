@@ -63,7 +63,7 @@
     "sharp": "^0.32.3",
     "simple-git": "^3.25.0",
     "svgo": "^3.3.2",
-    "vue": "^2.7.16",
+    "vue": "^3.0.0",
     "vue-prism-component": "^1.2.0",
     "xml-formatter": "^3.6.3"
   },
